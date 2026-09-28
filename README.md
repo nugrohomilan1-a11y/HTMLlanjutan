@@ -33,18 +33,22 @@ Membuat form interaktif menggunakan elemen <form> beserta elemen input standar s
 Menambahkan elemen pilihan lanjutan berupa radio button (type="radio") untuk pilihan tunggal (seperti jenis kelamin) dan checkbox (type="checkbox") untuk pilihan ganda (seperti keahlian).
 <img width="401" height="188" alt="4" src="https://github.com/user-attachments/assets/142f506d-514c-4f1b-8729-06230aae8ed6" />
 <img width="415" height="134" alt="Screenshot 2026-09-28 183332" src="https://github.com/user-attachments/assets/9156fa27-c74d-426a-a9d6-8b49bab6c604" />
+
 4. Select dan Textarea
 Menambahkan elemen dropdown pilihan menggunakan <select> dan <option>, serta kotak teks multi-baris menggunakan <textarea> untuk alamat.
 <img width="425" height="154" alt="5" src="https://github.com/user-attachments/assets/f369ed7b-d8be-4f2a-994f-7aba4f497a35" />
 <img width="342" height="108" alt="Screenshot 2026-09-28 183528" src="https://github.com/user-attachments/assets/762e44a3-dab1-4620-8015-e854b35092aa" />
+
 5. Validasi Form Dasar
 Menerapkan atribut validasi bawaan HTML seperti required, minlength, min, dan max pada elemen form untuk memastikan input pengguna valid sebelum dikirim.
 <img width="479" height="174" alt="6" src="https://github.com/user-attachments/assets/4618da3c-965f-4aae-94e9-c05f7ac458c3" />
 <img width="449" height="32" alt="Screenshot 2026-09-28 183712" src="https://github.com/user-attachments/assets/d4130d41-8efd-4c1e-badd-cba9852666fd" />
+
 6. Membuat Halaman Semantic HTML
 Menyusun struktur tata letak halaman web yang lebih bermakna dan terstandar menggunakan elemen semantik seperti <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>.
 <img width="390" height="350" alt="7" src="https://github.com/user-attachments/assets/1143991c-1f43-4b47-9621-0d865bbae403" />
 <img width="453" height="220" alt="Screenshot 2026-09-28 183921" src="https://github.com/user-attachments/assets/263428d8-0774-4a38-b424-afe6b038f138" />
+
 7. Menambahkan Multimedia
 Menyisipkan file media berupa audio (<audio>) dan video (<video>) ke dalam halaman web dengan kontrol pemutaran (controls) serta mengambil sumber file dari folder media/.
 <img width="342" height="248" alt="8" src="https://github.com/user-attachments/assets/bc47d9e8-4470-42d2-9417-38b16e8ddd07" />
