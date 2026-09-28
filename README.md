@@ -19,7 +19,8 @@ HTMLlanjutan/
 Langkah-Langkah Praktikum
 1. Membuat Tabel Data Mahasiswa
 Pada langkah ini, kita membuat tabel dasar menggunakan elemen <table>, <tr>, <th>, dan <td> dengan atribut border="1" untuk menyajikan data mahasiswa ke dalam bentuk baris dan kolom.
-<img<img width="447" height="140" alt="2" src="https://github.com/user-attachments/assets/9f5aed89-3a6c-4dca-9dad-6780b53f3553" />
+<img
+<img width="447" height="140" alt="2" src="https://github.com/user-attachments/assets/9f5aed89-3a6c-4dca-9dad-6780b53f3553" />
 
 <img width="223" height="65" alt="Screenshot 2026-09-28 182413" src="https://github.com/user-attachments/assets/c43b5efc-b379-4a85-b76f-2af7a4717e07" />
 
