@@ -54,6 +54,14 @@ Menyisipkan file media berupa audio (<audio>) dan video (<video>) ke dalam halam
 <img width="342" height="248" alt="8" src="https://github.com/user-attachments/assets/bc47d9e8-4470-42d2-9417-38b16e8ddd07" />
 <img width="425" height="345" alt="Screenshot 2026-09-28 184051" src="https://github.com/user-attachments/assets/e8bd7232-8571-4343-a410-c1d23fb95a71" />
 
+8 Proyek Mini: Form Biodata Mahasiswa
+Menggabungkan seluruh materi yang telah dipelajari—meliputi struktur semantik, tabel data, form registrasi lengkap dengan validasi, hingga elemen multimedia—kedalam satu halaman web proyek mini (biodata.html).
+<img width="352" height="369" alt="Screenshot 2026-09-28 185013" src="https://github.com/user-attachments/assets/59cc34cf-7c0e-499d-ae0f-27b0ae6ad884" />
+
+<img width="353" height="436" alt="Screenshot 2026-09-28 185156" src="https://github.com/user-attachments/assets/79466c05-d86f-4bf3-92ba-aa35172a8ef7" />
+
+
+
 
 
 
